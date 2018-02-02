@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">App_Tarea2_Clase5</string>
+    <string-array name="Escolaridad">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string-array name="Libros">
+        <item>Ready Player One</item>
+        <item>Holly Bible</item>
+        <item>Necronomicon</item>
+        <item>Calculo Multivariable</item>
+        <item>Calculo Diferencial</item>
+    </string-array>
 </resources>
